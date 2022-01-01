@@ -1,0 +1,26 @@
+{
+  "name": "upgraded-octo-guacamole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrena94/upgraded-octo-guacamole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patrena94/upgraded-octo-guacamole/issues"
+  },
+  "homepage": "https://github.com/Patrena94/upgraded-octo-guacamole#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  }
+}
